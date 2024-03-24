@@ -1,3 +1,4 @@
 # JDs-repository-2
-This is my first Repository
-Author - JD
+This is my first Repository.
+<br>
+Author - JD.
